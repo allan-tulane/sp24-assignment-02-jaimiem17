@@ -80,9 +80,9 @@ and push to your github repository.
     What are the asymptotic running times of each of these algorithms?
     Which algorithm would you choose?
     
-* Algorithm $\mathcal{A}$ is $O(n^log_2 5)$
+* Algorithm $\mathcal{A}$ is $O(n^(log_2 5))$
 * Algorithm $\mathcal{B}$ is $O(2^n)$
-* Algorithm $\mathcal{C}$ is $O(2^logn)$
+* Algorithm $\mathcal{C}$ is $O(2^(logn))$
 
 * I would choose the algorithm with the most efficent runtime which is $\mathcal{A}$
 
